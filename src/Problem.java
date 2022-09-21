@@ -6,7 +6,6 @@ import java.util.Objects;
 public class Problem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         Priority_queue queue = new Priority_queue();
         int n = sc.nextInt();
         while (n != 0) {
